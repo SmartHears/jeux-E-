@@ -1,0 +1,49 @@
+{
+  "questions": {
+    "1": {
+      "audio": "audio1.mp3",
+      "answers": {
+        "1": "Il ne refuse rien à une belle brune",
+        "2": "Il ne refuse rien à une belle prune",
+        "3": "Il ne refuse rien à une belle myope"
+      },
+      "CorrectAnswer": "1"
+    },
+    "2": {
+      "audio": "audio2.mp3",
+      "answers": {
+        "1": "Que la France est une dictature",
+        "2": "Que la France est une démocratie",
+        "3": "Que c'est la France du générale de Gaulle"
+      },
+      "CorrectAnswer": "3"
+    },
+    "3": {
+      "audio": "audio3.mp3",
+      "answers": {
+        "1": "La blanquette est bonne",
+        "2": "Le cassoulet est bon",
+        "3": "le tacos est excellent"
+      },
+      "CorrectAnswer": "1"
+    },
+    "4": {
+      "audio": "audio4.mp3",
+      "answers": {
+        "1": "Il apprend les chiffres arabes",
+        "2": "Il apprend les chiffres anglais",
+        "3": "Il apprend les chiffres chinoix"
+      },
+      "CorrectAnswer": "1"
+    },
+    "5": {
+      "audio": "audio3.mp3",
+      "answers": {
+        "1": "Il parle de son travail",
+        "2": "Il parle de ses vacances",
+        "3": "Il parle de son fils"
+      },
+      "CorrectAnswer": "3"
+    }
+  }
+}
